@@ -10,9 +10,7 @@ A React + TypeScript + Vite task management dashboard with:
 
 ## Live URL
 
-`https://<your-live-domain>`
-
-Replace this value after deployment (Vercel, Netlify, or GitHub Pages).
+`https://task-dashboard-mu-lime.vercel.app/`
 
 ## Local Development
 
@@ -48,8 +46,6 @@ npm run build
 vercel login
 npx vercel --prod
 ```
-
-After deployment, copy the generated URL and replace the `Live URL` value above.
 
 ### Option 2: Netlify
 
